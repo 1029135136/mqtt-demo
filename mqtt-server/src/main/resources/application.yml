@@ -1,0 +1,2 @@
+server:
+  port: 8081   #一般没改过tomcat服务器的端口不用修改
